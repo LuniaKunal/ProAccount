@@ -1,0 +1,183 @@
+2025-04-16 21:17:23,688 - INFO - ==================================================
+2025-04-16 21:17:23,689 - INFO - Starting bill processing request
+2025-04-16 21:17:23,689 - INFO - Request file: Scanned_Bills.pdf
+2025-04-16 21:17:23,706 - INFO - PDF saved temporarily at: temp_1744818443.pdf
+2025-04-16 21:17:23,706 - INFO - Starting PDF to image conversion for file: temp_1744818443.pdf
+2025-04-16 21:17:23,738 - INFO - Processing 42 pages
+2025-04-16 21:17:24,953 - INFO - Processed and saved page 1 to pdf_images_1744818443\page_1.jpg
+2025-04-16 21:17:26,162 - INFO - Processed and saved page 2 to pdf_images_1744818443\page_2.jpg
+2025-04-16 21:17:27,254 - INFO - Processed and saved page 3 to pdf_images_1744818443\page_3.jpg
+2025-04-16 21:17:28,642 - INFO - Processed and saved page 4 to pdf_images_1744818443\page_4.jpg
+2025-04-16 21:17:30,332 - INFO - Processed and saved page 5 to pdf_images_1744818443\page_5.jpg
+2025-04-16 21:17:31,574 - INFO - Processed and saved page 6 to pdf_images_1744818443\page_6.jpg
+2025-04-16 21:17:32,850 - INFO - Processed and saved page 7 to pdf_images_1744818443\page_7.jpg
+2025-04-16 21:17:34,102 - INFO - Processed and saved page 8 to pdf_images_1744818443\page_8.jpg
+2025-04-16 21:17:35,131 - INFO - Processed and saved page 9 to pdf_images_1744818443\page_9.jpg
+2025-04-16 21:17:36,180 - INFO - Processed and saved page 10 to pdf_images_1744818443\page_10.jpg
+2025-04-16 21:17:37,254 - INFO - Processed and saved page 11 to pdf_images_1744818443\page_11.jpg
+2025-04-16 21:17:38,785 - INFO - Processed and saved page 12 to pdf_images_1744818443\page_12.jpg
+2025-04-16 21:17:39,805 - INFO - Processed and saved page 13 to pdf_images_1744818443\page_13.jpg
+2025-04-16 21:17:40,779 - INFO - Processed and saved page 14 to pdf_images_1744818443\page_14.jpg
+2025-04-16 21:17:41,772 - INFO - Processed and saved page 15 to pdf_images_1744818443\page_15.jpg
+2025-04-16 21:17:42,925 - INFO - Processed and saved page 16 to pdf_images_1744818443\page_16.jpg
+2025-04-16 21:17:44,063 - INFO - Processed and saved page 17 to pdf_images_1744818443\page_17.jpg
+2025-04-16 21:17:45,105 - INFO - Processed and saved page 18 to pdf_images_1744818443\page_18.jpg
+2025-04-16 21:17:46,039 - INFO - Processed and saved page 19 to pdf_images_1744818443\page_19.jpg
+2025-04-16 21:17:47,113 - INFO - Processed and saved page 20 to pdf_images_1744818443\page_20.jpg
+2025-04-16 21:17:48,184 - INFO - Processed and saved page 21 to pdf_images_1744818443\page_21.jpg
+2025-04-16 21:17:49,366 - INFO - Processed and saved page 22 to pdf_images_1744818443\page_22.jpg
+2025-04-16 21:17:50,354 - INFO - Processed and saved page 23 to pdf_images_1744818443\page_23.jpg
+2025-04-16 21:17:51,387 - INFO - Processed and saved page 24 to pdf_images_1744818443\page_24.jpg
+2025-04-16 21:17:52,321 - INFO - Processed and saved page 25 to pdf_images_1744818443\page_25.jpg
+2025-04-16 21:17:53,343 - INFO - Processed and saved page 26 to pdf_images_1744818443\page_26.jpg
+2025-04-16 21:17:54,246 - INFO - Processed and saved page 27 to pdf_images_1744818443\page_27.jpg
+2025-04-16 21:17:55,105 - INFO - Processed and saved page 28 to pdf_images_1744818443\page_28.jpg
+2025-04-16 21:17:56,093 - INFO - Processed and saved page 29 to pdf_images_1744818443\page_29.jpg
+2025-04-16 21:17:57,042 - INFO - Processed and saved page 30 to pdf_images_1744818443\page_30.jpg
+2025-04-16 21:17:58,002 - INFO - Processed and saved page 31 to pdf_images_1744818443\page_31.jpg
+2025-04-16 21:17:59,014 - INFO - Processed and saved page 32 to pdf_images_1744818443\page_32.jpg
+2025-04-16 21:17:59,957 - INFO - Processed and saved page 33 to pdf_images_1744818443\page_33.jpg
+2025-04-16 21:18:00,878 - INFO - Processed and saved page 34 to pdf_images_1744818443\page_34.jpg
+2025-04-16 21:18:01,797 - INFO - Processed and saved page 35 to pdf_images_1744818443\page_35.jpg
+2025-04-16 21:18:02,766 - INFO - Processed and saved page 36 to pdf_images_1744818443\page_36.jpg
+2025-04-16 21:18:03,662 - INFO - Processed and saved page 37 to pdf_images_1744818443\page_37.jpg
+2025-04-16 21:18:04,505 - INFO - Processed and saved page 38 to pdf_images_1744818443\page_38.jpg
+2025-04-16 21:18:05,537 - INFO - Processed and saved page 39 to pdf_images_1744818443\page_39.jpg
+2025-04-16 21:18:06,512 - INFO - Processed and saved page 40 to pdf_images_1744818443\page_40.jpg
+2025-04-16 21:18:07,378 - INFO - Processed and saved page 41 to pdf_images_1744818443\page_41.jpg
+2025-04-16 21:18:08,509 - INFO - Processed and saved page 42 to pdf_images_1744818443\page_42.jpg
+2025-04-16 21:18:08,509 - INFO - PDF to image conversion completed successfully
+2025-04-16 21:18:08,512 - INFO - PDF to images conversion completed
+2025-04-16 21:18:08,537 - INFO - Starting bill details extraction using Gemini
+2025-04-16 21:18:08,537 - INFO - Gemini API configured successfully
+2025-04-16 21:18:08,538 - INFO - Found 42 images to process
+2025-04-16 21:18:08,538 - INFO - Processing page_1.jpg (Page 1)
+2025-04-16 21:18:14,301 - INFO - Successfully processed page 1
+2025-04-16 21:18:14,301 - INFO - Successfully parsed JSON for page 1
+2025-04-16 21:18:16,311 - INFO - Processing page_2.jpg (Page 2)
+2025-04-16 21:18:21,636 - INFO - Successfully processed page 2
+2025-04-16 21:18:21,637 - INFO - Successfully parsed JSON for page 2
+2025-04-16 21:18:23,647 - INFO - Processing page_3.jpg (Page 3)
+2025-04-16 21:18:28,657 - INFO - Successfully processed page 3
+2025-04-16 21:18:28,658 - INFO - Successfully parsed JSON for page 3
+2025-04-16 21:18:30,669 - INFO - Processing page_4.jpg (Page 4)
+2025-04-16 21:18:35,746 - INFO - Successfully processed page 4
+2025-04-16 21:18:35,746 - INFO - Successfully parsed JSON for page 4
+2025-04-16 21:18:37,756 - INFO - Processing page_5.jpg (Page 5)
+2025-04-16 21:18:42,774 - INFO - Successfully processed page 5
+2025-04-16 21:18:42,774 - INFO - Successfully parsed JSON for page 5
+2025-04-16 21:18:44,783 - INFO - Processing page_6.jpg (Page 6)
+2025-04-16 21:18:49,684 - INFO - Successfully processed page 6
+2025-04-16 21:18:49,684 - INFO - Successfully parsed JSON for page 6
+2025-04-16 21:18:51,690 - INFO - Processing page_7.jpg (Page 7)
+2025-04-16 21:18:56,512 - INFO - Successfully processed page 7
+2025-04-16 21:18:56,512 - INFO - Successfully parsed JSON for page 7
+2025-04-16 21:18:58,520 - INFO - Processing page_8.jpg (Page 8)
+2025-04-16 21:19:04,193 - INFO - Successfully processed page 8
+2025-04-16 21:19:04,194 - INFO - Successfully parsed JSON for page 8
+2025-04-16 21:19:06,202 - INFO - Processing page_9.jpg (Page 9)
+2025-04-16 21:19:11,271 - INFO - Successfully processed page 9
+2025-04-16 21:19:11,271 - INFO - Successfully parsed JSON for page 9
+2025-04-16 21:19:13,287 - INFO - Processing page_10.jpg (Page 10)
+2025-04-16 21:19:18,626 - INFO - Successfully processed page 10
+2025-04-16 21:19:18,626 - INFO - Successfully parsed JSON for page 10
+2025-04-16 21:19:20,629 - INFO - Processing page_11.jpg (Page 11)
+2025-04-16 21:19:26,024 - INFO - Successfully processed page 11
+2025-04-16 21:19:26,025 - INFO - Successfully parsed JSON for page 11
+2025-04-16 21:19:28,031 - INFO - Processing page_12.jpg (Page 12)
+2025-04-16 21:19:33,211 - INFO - Successfully processed page 12
+2025-04-16 21:19:33,212 - INFO - Successfully parsed JSON for page 12
+2025-04-16 21:19:35,228 - INFO - Processing page_13.jpg (Page 13)
+2025-04-16 21:19:39,221 - INFO - Successfully processed page 13
+2025-04-16 21:19:39,222 - INFO - Successfully parsed JSON for page 13
+2025-04-16 21:19:41,229 - INFO - Processing page_14.jpg (Page 14)
+2025-04-16 21:19:45,753 - INFO - Successfully processed page 14
+2025-04-16 21:19:45,754 - INFO - Successfully parsed JSON for page 14
+2025-04-16 21:19:47,765 - INFO - Processing page_15.jpg (Page 15)
+2025-04-16 21:19:51,911 - INFO - Successfully processed page 15
+2025-04-16 21:19:51,911 - INFO - Successfully parsed JSON for page 15
+2025-04-16 21:19:53,913 - INFO - Processing page_16.jpg (Page 16)
+2025-04-16 21:19:58,527 - INFO - Successfully processed page 16
+2025-04-16 21:19:58,527 - INFO - Successfully parsed JSON for page 16
+2025-04-16 21:20:00,540 - INFO - Processing page_17.jpg (Page 17)
+2025-04-16 21:20:04,248 - INFO - Successfully processed page 17
+2025-04-16 21:20:04,248 - INFO - Successfully parsed JSON for page 17
+2025-04-16 21:20:06,257 - INFO - Processing page_18.jpg (Page 18)
+2025-04-16 21:20:10,325 - INFO - Successfully processed page 18
+2025-04-16 21:20:10,327 - INFO - Successfully parsed JSON for page 18
+2025-04-16 21:20:12,338 - INFO - Processing page_19.jpg (Page 19)
+2025-04-16 21:20:16,264 - INFO - Successfully processed page 19
+2025-04-16 21:20:16,264 - INFO - Successfully parsed JSON for page 19
+2025-04-16 21:20:18,269 - INFO - Processing page_20.jpg (Page 20)
+2025-04-16 21:20:22,277 - INFO - Successfully processed page 20
+2025-04-16 21:20:22,277 - INFO - Successfully parsed JSON for page 20
+2025-04-16 21:20:24,283 - INFO - Processing page_21.jpg (Page 21)
+2025-04-16 21:20:28,520 - INFO - Successfully processed page 21
+2025-04-16 21:20:28,520 - INFO - Successfully parsed JSON for page 21
+2025-04-16 21:20:30,528 - INFO - Processing page_22.jpg (Page 22)
+2025-04-16 21:20:34,208 - INFO - Successfully processed page 22
+2025-04-16 21:20:34,208 - INFO - Successfully parsed JSON for page 22
+2025-04-16 21:20:36,212 - INFO - Processing page_23.jpg (Page 23)
+2025-04-16 21:20:39,974 - INFO - Successfully processed page 23
+2025-04-16 21:20:39,974 - INFO - Successfully parsed JSON for page 23
+2025-04-16 21:20:41,991 - INFO - Processing page_24.jpg (Page 24)
+2025-04-16 21:20:45,543 - INFO - Successfully processed page 24
+2025-04-16 21:20:45,544 - INFO - Successfully parsed JSON for page 24
+2025-04-16 21:20:47,551 - INFO - Processing page_25.jpg (Page 25)
+2025-04-16 21:20:51,290 - INFO - Successfully processed page 25
+2025-04-16 21:20:51,290 - INFO - Successfully parsed JSON for page 25
+2025-04-16 21:20:53,298 - INFO - Processing page_26.jpg (Page 26)
+2025-04-16 21:20:57,135 - INFO - Successfully processed page 26
+2025-04-16 21:20:57,135 - INFO - Successfully parsed JSON for page 26
+2025-04-16 21:20:59,144 - INFO - Processing page_27.jpg (Page 27)
+2025-04-16 21:21:03,106 - INFO - Successfully processed page 27
+2025-04-16 21:21:03,106 - INFO - Successfully parsed JSON for page 27
+2025-04-16 21:21:05,110 - INFO - Processing page_28.jpg (Page 28)
+2025-04-16 21:21:08,797 - INFO - Successfully processed page 28
+2025-04-16 21:21:08,799 - INFO - Successfully parsed JSON for page 28
+2025-04-16 21:21:10,810 - INFO - Processing page_29.jpg (Page 29)
+2025-04-16 21:21:15,302 - INFO - Successfully processed page 29
+2025-04-16 21:21:15,303 - INFO - Successfully parsed JSON for page 29
+2025-04-16 21:21:17,305 - INFO - Processing page_30.jpg (Page 30)
+2025-04-16 21:21:21,231 - INFO - Successfully processed page 30
+2025-04-16 21:21:21,231 - INFO - Successfully parsed JSON for page 30
+2025-04-16 21:21:23,242 - INFO - Processing page_31.jpg (Page 31)
+2025-04-16 21:21:27,347 - INFO - Successfully processed page 31
+2025-04-16 21:21:27,348 - INFO - Successfully parsed JSON for page 31
+2025-04-16 21:21:29,356 - INFO - Processing page_32.jpg (Page 32)
+2025-04-16 21:21:33,659 - INFO - Successfully processed page 32
+2025-04-16 21:21:33,659 - INFO - Successfully parsed JSON for page 32
+2025-04-16 21:21:35,671 - INFO - Processing page_33.jpg (Page 33)
+2025-04-16 21:21:40,443 - INFO - Successfully processed page 33
+2025-04-16 21:21:40,444 - INFO - Successfully parsed JSON for page 33
+2025-04-16 21:21:42,454 - INFO - Processing page_34.jpg (Page 34)
+2025-04-16 21:21:46,115 - INFO - Successfully processed page 34
+2025-04-16 21:21:46,115 - INFO - Successfully parsed JSON for page 34
+2025-04-16 21:21:48,120 - INFO - Processing page_35.jpg (Page 35)
+2025-04-16 21:21:51,755 - INFO - Successfully processed page 35
+2025-04-16 21:21:51,756 - INFO - Successfully parsed JSON for page 35
+2025-04-16 21:21:53,756 - INFO - Processing page_36.jpg (Page 36)
+2025-04-16 21:21:57,269 - INFO - Successfully processed page 36
+2025-04-16 21:21:57,270 - INFO - Successfully parsed JSON for page 36
+2025-04-16 21:21:59,277 - INFO - Processing page_37.jpg (Page 37)
+2025-04-16 21:22:03,128 - INFO - Successfully processed page 37
+2025-04-16 21:22:03,128 - INFO - Successfully parsed JSON for page 37
+2025-04-16 21:22:05,136 - INFO - Processing page_38.jpg (Page 38)
+2025-04-16 21:22:09,517 - INFO - Successfully processed page 38
+2025-04-16 21:22:09,518 - INFO - Successfully parsed JSON for page 38
+2025-04-16 21:22:11,530 - INFO - Processing page_39.jpg (Page 39)
+2025-04-16 21:22:15,658 - INFO - Successfully processed page 39
+2025-04-16 21:22:15,658 - INFO - Successfully parsed JSON for page 39
+2025-04-16 21:22:17,673 - INFO - Processing page_40.jpg (Page 40)
+2025-04-16 21:22:21,329 - INFO - Successfully processed page 40
+2025-04-16 21:22:21,329 - INFO - Successfully parsed JSON for page 40
+2025-04-16 21:22:23,342 - INFO - Processing page_41.jpg (Page 41)
+2025-04-16 21:22:27,382 - INFO - Successfully processed page 41
+2025-04-16 21:22:27,382 - INFO - Successfully parsed JSON for page 41
+2025-04-16 21:22:29,395 - INFO - Processing page_42.jpg (Page 42)
+2025-04-16 21:22:33,595 - INFO - Successfully processed page 42
+2025-04-16 21:22:33,595 - INFO - Successfully parsed JSON for page 42
+2025-04-16 21:22:35,616 - INFO - Results saved to bill_details_20250416_212235.csv
+2025-04-16 21:22:35,617 - INFO - Bill details extracted. DataFrame shape: (42, 16)
+2025-04-16 21:22:35,627 - INFO - Cleanup completed. Removed 42 files and directory
+2025-04-16 21:22:35,638 - INFO - Successfully processed bill and inserted into database
